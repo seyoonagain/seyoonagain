@@ -9,7 +9,7 @@ const character = {
   strengths: ["meticulous", "encouraging"]
 }
 
-// To be a developer
+// What I have...
 let skills = {
   realLanguages: ["Korean", "English"],
   programmingLanguages: ["JavaScript", "HTML", "CSS"],
