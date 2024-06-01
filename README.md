@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Séyoon Jeong 🦦
 
-<!--
-**seyoonagain/seyoonagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩🏻‍💻 [blog](https://2024owt.tistory.com)
+---
+```js
+// What I am like...
+const character = {
+  mbti: "ISFP",
+  strengths: ["meticulous", "encouraging"]
+}
 
-Here are some ideas to get you started:
+// To be a developer
+let skills = {
+  realLanguages: ["Korean", "English"],
+  programmingLanguages: ["JavaScript", "HTML", "CSS"],
+  learning: ["React"]
+}
+let interests = ["coding", "project", "travel"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// I'm planning to...
+skills.programmingLanguages.push("TypeScript")
+```
+---
