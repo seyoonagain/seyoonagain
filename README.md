@@ -1,6 +1,6 @@
 # Hi, I'm Séyoon Jeong 👋🏼
 
-### <p align="center"> ✴ ⋆ [👩🏻‍💻 BLOG](https://2024owt.tistory.com) ✰ ⋆ ✶</p>
+### <p align="center">[👩🏻‍💻 BLOG](https://2024owt.tistory.com) ✰ </p>
 ---
 ```js
 // What I am like...
