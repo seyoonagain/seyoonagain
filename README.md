@@ -12,8 +12,7 @@ const character = {
 // What I have...
 let skills = {
   realLanguages: ["Korean", "English"],
-  programmingLanguages: ["JavaScript", "HTML", "CSS"],
-  learning: ["React"]
+  computer: ["React", "JavaScript", "HTML", "CSS"],
 }
 let interests = ["coding", "project", "travel"]
 
